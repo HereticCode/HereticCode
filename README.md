@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bienvenido 👋  
+¡Hola! Soy Cristopher, apasionado de la tecnología y aficionado a los videojuegos desde que tengo memoria.
 
-<!--
-**HereticCode/HereticCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mí:
 
-Here are some ideas to get you started:
+- He estado estudiando informática y trabajando en mis habilidades técnicas durante gran parte de mi vida.  
+- Soy prácticamente bilingüe. Desde muy temprana edad me ha fascinado y he practicado el idioma inglés.
+- Mi meta personal es trabajar profesionalmente como ingeniero de sistemas.  
+- Mi saga favorita de videojuegos es **Dark Souls**.  
+- Soy un gran fan de la música, especialmente de **Rock**, **Metal**, **Alternativo** e incluso **Country**.  
+- Mi director favorito es **Quentin Tarantino**, y mi película favorita es *Kill Bill Vol. 1*.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@HereticCode/30-nites-of-code)
+  
+  ![@HereticCode #30NitesOfCode](https://www.codedex.io/api/petStatus?user=HereticCode)
